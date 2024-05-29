@@ -3,9 +3,9 @@ import React from 'react'
 const Navbar = () => {
   return (
     <div>
-      
-    </div>
-  )
+      <h1>This is Navbar Component</h1>
+    </div>  
+    );
 }
 
 export default Navbar
